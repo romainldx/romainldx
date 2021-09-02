@@ -1,6 +1,6 @@
 👋 Hi, I’m Romain
 👀 I’m interested in Data Science and arounds
-🌱 I’m a freshman graduated Data Analystg
+🌱 I’m a freshman graduated Data Analyst
 💞️ I’m looking to collaborate on business and datascience projects
 📫 How to reach me ledouxromain.data@gmail.com
 
